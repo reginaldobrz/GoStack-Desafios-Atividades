@@ -18,8 +18,8 @@
 - [06 - ReactJS Fundamentals](https://github.com/reginaldobrz/GoStack-Desafios-Atividades/tree/master/desafio-fundamentosReactjs)
 - [07 - React Native Fundamentals](https://github.com/reginaldobrz/GoStack-Desafios-Atividades/tree/master/Fundamentos-React-Native)
 - [08 - Database relationships in Node.js](https://github.com/reginaldobrz/GoStack-Desafios-Atividades/tree/master/Desafio-Database%20relations)
+- [09 - CRUD in ReactJS](https://github.com/reginaldobrz/GoStack-Desafios-Atividades/tree/master/desafio-%20GoRestaurantWeb)
 
-- [09 - CRUD in ReactJS]()
 - [10 - Filter and navigation in React Native]()
 
 ## :memo: Licence
