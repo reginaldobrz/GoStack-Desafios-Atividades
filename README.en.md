@@ -17,8 +17,8 @@
 - [05 - Database and Files Upload with NodeJS](https://github.com/reginaldobrz/GoStack-Desafios-Atividades/tree/master/desafio-databaseUpload)
 - [06 - ReactJS Fundamentals](https://github.com/reginaldobrz/GoStack-Desafios-Atividades/tree/master/desafio-fundamentosReactjs)
 - [07 - React Native Fundamentals](https://github.com/reginaldobrz/GoStack-Desafios-Atividades/tree/master/Fundamentos-React-Native)
+- [08 - Database relationships in Node.js](https://github.com/reginaldobrz/GoStack-Desafios-Atividades/tree/master/Desafio-Database%20relations)
 
-- [08 - Database relationships in Node.js]()
 - [09 - CRUD in ReactJS]()
 - [10 - Filter and navigation in React Native]()
 
